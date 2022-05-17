@@ -1,3 +1,4 @@
-/*.js
-node_modules
-dist
+[Bb]uild*
+[Dd]ist*
+[Bb]in*
+package-lock.json
